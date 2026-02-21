@@ -67,6 +67,6 @@ This project was developed to demonstrate:
 
 --- 
 
-## Note
+### Note
 
 This repository is maintained for academic reference and portfolio purposes.
